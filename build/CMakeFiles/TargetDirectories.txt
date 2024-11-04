@@ -1,0 +1,3 @@
+/Users/mackenzieturner/Developer/OpenSource/dircli/build/CMakeFiles/direct.dir
+/Users/mackenzieturner/Developer/OpenSource/dircli/build/CMakeFiles/edit_cache.dir
+/Users/mackenzieturner/Developer/OpenSource/dircli/build/CMakeFiles/rebuild_cache.dir
